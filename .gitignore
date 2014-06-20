@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+Output
+Data/Output
+Data/12PercentTension
+Data/Image
+Data/Microtexture
+SmallIN100
