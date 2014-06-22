@@ -1,0 +1,6 @@
+*.dream3d binary
+*.h5 binary
+*.h5stats binary
+*.hdf5 binary
+*.raw binary
+*.bin binary
