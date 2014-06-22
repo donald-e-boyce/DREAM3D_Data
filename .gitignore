@@ -25,4 +25,9 @@ Data/Output
 Data/12PercentTension
 Data/Image
 Data/Microtexture
+
+# Files TOO large to put into Git Repo
 SmallIN100
+Atomistics
+Dislocation
+SyntheticTest
